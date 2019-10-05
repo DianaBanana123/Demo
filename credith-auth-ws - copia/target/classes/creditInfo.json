@@ -1,0 +1,437 @@
+[
+	{
+		"diagnosticInfo": {
+			"endeudamiento": {
+				"porcentajeUtilizacion": 13.4,
+				"porcentajePendiente": 0,
+				"comportamiento": "estable",
+				"prestamosPlazoFijo": 1,
+				"calificaciones": [
+					{
+						"calificacion": "Excelente",
+						"texto": "A la fecha tienes una utilización del 13.4% en tus tarjetas crédito y rotativos.",
+						"calificacionLetra": "E",
+						"textoMejoramiento": "Actualmente su utilización de Tarjetas de Crédito y Crédito Rotativos se encuentra en un nivel saludable. Se recomienda mantener una utilización inferior al 55%. ¿Cuáles son las implicaciones de una alta utilización? Una alta utilización implica que la persona está llegando al límite máximo de su capacidad de endeudamiento de acuerdo a los cupos otorgados por las entidades. Una alta utilización implica además que el cupo disponible en Tarjetas de Crédito y Rotativos es bajo. Es importante mantener un alto cupo disponible para poder usarlo en caso de cualquier evento o situación inesperada. Mantener una línea de crédito con baja utilización es una forma de mitigar el riesgo financiero."
+					},
+					{
+						"calificacion": "No Evaluado",
+						"texto": "No cuentas con prestamos a plazo fijo",
+						"calificacionLetra": "N/E",
+						"textoMejoramiento": ""
+					},
+					{
+						"calificacion": "Excelente",
+						"texto": "Tienes un comportamiento estable en la utilización de tus tarjetas de crédito y rotativos",
+						"calificacionLetra": "E",
+						"textoMejoramiento": "Usted presenta un comportamiento estable en sus tarjetas de crédito y créditos rotativos. Una alta volatilidad o variabilidad en la utilización de sus Tarjetas de Crédito y Crédito Rotativos refleja una menor estabilidad en el flujo de caja y por lo tanto un perfil de mayor riesgo. Si bien este no es el factor más relevante a la hora de analizar el riesgo en sus finanzas, la recomendación es mantener un flujo de caja estable, a mayor estabilidad, menor riesgo."
+					}
+				]
+			},
+			"estadoPortafolio": {
+				"numeroProductosAbiertosAlDia": 17,
+				"tieneOTuvoCreditosHipotecarios": false,
+				"tieneProductosFinancierosOTeleco": true,
+				"cuentasComoCodeudor": 0,
+				"calificaciones": [
+					{
+						"calificacion": "Excelente",
+						"texto": "Cuenta con 17 productos abiertos al día",
+						"calificacionLetra": "E",
+						"textoMejoramiento": "Uno de los factores más importantes en el análisis de su Perfil de Crédito es el estado de sus obligaciones abiertas y la diversidad de su portafolio. En su caso se considera que usted cuenta con un portafolio lo suficientemente diverso. Esto afecta positivamente su Perfil de Crédito."
+					},
+					{
+						"calificacion": "Regular",
+						"texto": "No cuentas con crédito hipotecario/leasing",
+						"calificacionLetra": "R",
+						"textoMejoramiento": "Invertir en finca raiz no solamente le ayudará a aumentar su patrimonio sino que también le ayudará a mejorar su Perfil de Crédito. Los créditos hipotecarios son los productos más complejos que se ofrece a una persona natural en el sistema financiero, debido a que los montos, cuotas y plazos son significativamente mayores respecto a otros tipos de créditos. Contar con créditos hipotecarios implica que usted tiene algún patrimonio y que ha llevado a cabo una planeación financiera de más largo plazo, esto afecta positivamente su Perfil de Crédito. Si usted se encuentra en la capacidad de pagar la cuota inicial de un inmueble, y cuenta con el ingreso suficiente para cumplir con las cuotas mensuales de un crédito hipotecario, le recomendamos evaluar esta opción de inversión. Adicionalmente, los créditos hipotecarios cuentan con beneficios tributarios que le ayudarán a aliviar su flujo de caja."
+					},
+					{
+						"calificacion": "Bueno",
+						"texto": "Cuentas con productos financieros y de telecomunicaciones",
+						"calificacionLetra": "B",
+						"textoMejoramiento": "Usted cuenta con productos financieros en su portafolio. Se considera que éste es un indicador de un buen Perfil de Crédito. Productos como Tarjetas de Crédito, Créditos Rotativos o Préstamos con entidades bancarias requieren de un manejo más cuidadoso ya que los cupos y cuotas generalmente son más altas respecto a obligaciones del sector real o de telecomunicaciones."
+					},
+					{
+						"calificacion": "Excelente",
+						"texto": "No tienes cuentas como codeudor",
+						"calificacionLetra": "E",
+						"textoMejoramiento": "Usted no tiene cuentas como codeudor. Si está considerando ser codeudor, tenga en cuenta que la nueva deuda tendrá un impacto en el cálculo de su capacidad de endeudamiento y que además representa un riesgo adicional dado que usted tendrá un menor control sobre el pago oportuno de la deuda. Esto puede tener un impacto en su puntaje de crédito. ¿Cuándo ser codeudor? Nuestra recomendación es que sólo sirva de codeudor si usted está dispuesto a responder por la deuda en caso de cualquier incumplimiento por parte del deudor principal. Recuerde que todas las personas tienen un nivel de riesgo crediticio medido a través del score de crédito."
+					}
+				]
+			},
+			"experienciaCrediticia": {
+				"aniosExperienciaCrediticia": 14,
+				"mesesDesdeNuevoProducto": 16,
+				"numeroObligacionesUltimos6Meses": 0,
+				"totalProductosCerrados": 12,
+				"calificaciones": [
+					{
+						"calificacion": "Excelente",
+						"texto": "Cuentas con 14 años de Experiencia Crediticia",
+						"calificacionLetra": "E",
+						"textoMejoramiento": "Usted cuenta con una amplia experiencia crediticia. En la etapa de madurez financiera se espera que las personas usen sus líneas de crédito para construir patrimonio, como ocurre en el caso de compra de vivienda, compra de acciones, bonos u otro tipo de inversión. Tenga en cuenta que en una etapa de madurez financiera la suma de sus deudas no debe ser mayor a su patrimonio neto (Activos-Pasivos)."
+					},
+					{
+						"calificacion": "Excelente",
+						"texto": "En los últimos 6 meses abriste 0 nuevas obligaciones",
+						"calificacionLetra": "E",
+						"textoMejoramiento": "Estadísticamente se ha comprobado que las personas que abren muchos productos en un corto periodo de tiempo tienen un Perfil de mayor riesgo. En su caso, usted no tiene ningún producto abierto en los últimos 6 meses. La recomendación es que depués de adquirir una nueva deuda, espere un tiempo prudente de 3 meses antes de solicitar otro crédito, es importante que su flujo de caja se adapte a la nueva obligación antes de solicitar un nuevo crédito."
+					},
+					{
+						"calificacion": "Excelente",
+						"texto": "En tu vida crediticia has cerrado 12 productos con estados positivos.",
+						"calificacionLetra": "E",
+						"textoMejoramiento": "Además de los años de experiencia crediticia, el número de productos con buen manejo que usted haya tenido a lo largo de su vida, contribuyen a mejorar su perfil de crédito. En su caso, usted tiene experiencia suficiente en el manejo de diversos productos. Recuerde que al cerrar cualquier crédito o cuenta, debe pedir a la entidad un paz y salvo y revisar que el estado final de la cuenta en su historia de crédito es un estado positivo."
+					},
+					{
+						"calificacion": "Bueno",
+						"texto": "Han transcurrido 16 meses desde tu apertura más reciente de productos.",
+						"calificacionLetra": "B",
+						"textoMejoramiento": ""
+					}
+				]
+			},
+			"habitoPago": {
+				"productosConMora30DiasUltimos12Meses": 0,
+				"productosConMora60DiasUltimos48Meses": 0,
+				"saldoEnMora": 0.0,
+				"productosEnMoraALaFecha": 0,
+				"calificaciones": [
+					{
+						"calificacion": "Excelente",
+						"texto": "Has tenido 0 productos con moras de 30 dias en los últimos 12 meses",
+						"calificacionLetra": "E",
+						"textoMejoramiento": "Usted ha realizado todos sus pagos oportunamente durante el último año, ¡esto suma puntos en su Perfil de Crédito!"
+					},
+					{
+						"calificacion": "Excelente",
+						"texto": "Has tenido 0 productos con moras de 60 dias o mas en los últimos 48 meses",
+						"calificacionLetra": "E",
+						"textoMejoramiento": "Usted presenta un buen manejo histórico de su Perfil, no ha incurrido en ninguna mora severa (más de 60 días) en los últimos 4 años. Este es un factor importante, ya que menos del 40% de las personas que alcanzan moras severas, logran ponerse al día en sus obligaciones."
+					},
+					{
+						"calificacion": "Excelente",
+						"texto": "A la fecha tienes un saldo en mora de 0.0",
+						"calificacionLetra": "E",
+						"textoMejoramiento": ""
+					},
+					{
+						"calificacion": "Excelente",
+						"texto": "A la fecha tienes 0 productos en mora",
+						"calificacionLetra": "E",
+						"textoMejoramiento": "Muy bien, todos sus productos se encuentran al día. Usted cuenta con un buen hábito de pago de sus obligaciones.Estar siempre al día en sus obligaciones le ayudará a construir unas finanzas sólidas y saludables."
+					}
+				]
+			}
+		},
+		"score": {
+			"tipo": "67",
+			"puntaje": "293.0",
+			"fecha": 1569369600000,
+			"poblacion": "10",
+			"Razon": [
+				{
+					"codigo": "00099"
+				},
+				{
+					"codigo": "00000"
+				}
+			]
+		},
+		"request": {
+			"document": "89005679",
+			"documentType": "1",
+			"lastName": "baquero"
+		}
+	},
+	{
+		"diagnosticInfo": {
+			"endeudamiento": {
+				"porcentajeUtilizacion": 17.2,
+				"porcentajePendiente": 4.70,
+				"comportamiento": "estable",
+				"prestamosPlazoFijo": 5,
+				"calificaciones": [
+					{
+						"calificacion": "Excelente",
+						"texto": "A la fecha tienes una utilización del 17.2% en tus tarjetas crédito y rotativos.",
+						"calificacionLetra": "E",
+						"textoMejoramiento": "Actualmente su utilización de Tarjetas de Crédito y Crédito Rotativos se encuentra en un nivel saludable. Se recomienda mantener una utilización inferior al 55%. ¿Cuáles son las implicaciones de una alta utilización? Una alta utilización implica que la persona está llegando al límite máximo de su capacidad de endeudamiento de acuerdo a los cupos otorgados por las entidades. Una alta utilización implica además que el cupo disponible en Tarjetas de Crédito y Rotativos es bajo. Es importante mantener un alto cupo disponible para poder usarlo en caso de cualquier evento o situación inesperada. Mantener una línea de crédito con baja utilización es una forma de mitigar el riesgo financiero."
+					},
+					{
+						"calificacion": "Excelente",
+						"texto": "Tienes un 4.7% pendiente por pagar en el saldo de tus obligaciones a plazo fijo.",
+						"calificacionLetra": "E",
+						"textoMejoramiento": "En la primera etapa de una deuda, cuando se debe más del 89% del monto inicial de la misma, existe un mayor riesgo de incumplimiento. Esto se debe a que en los primeros meses de una deuda el aporte a saldo a capital es muy poco y la persona además debe adaptar su flujo de caja a la nueva obligación. Una vez la persona debe menos del 89% del saldo inicial, como es su caso, se considera que se encuentra en una etapa de riesgo bajo."
+					},
+					{
+						"calificacion": "Excelente",
+						"texto": "Tienes un comportamiento estable en la utilización de tus tarjetas de crédito y rotativos",
+						"calificacionLetra": "E",
+						"textoMejoramiento": "Usted presenta un comportamiento estable en sus tarjetas de crédito y créditos rotativos. Una alta volatilidad o variabilidad en la utilización de sus Tarjetas de Crédito y Crédito Rotativos refleja una menor estabilidad en el flujo de caja y por lo tanto un perfil de mayor riesgo. Si bien este no es el factor más relevante a la hora de analizar el riesgo en sus finanzas, la recomendación es mantener un flujo de caja estable, a mayor estabilidad, menor riesgo."
+					}
+				]
+			},
+			"estadoPortafolio": {
+				"numeroProductosAbiertosAlDia": 32,
+				"tieneOTuvoCreditosHipotecarios": true,
+				"tieneProductosFinancierosOTeleco": true,
+				"cuentasComoCodeudor": 2,
+				"calificaciones": [
+					{
+						"calificacion": "Excelente",
+						"texto": "Cuenta con 32 productos abiertos al día",
+						"calificacionLetra": "E",
+						"textoMejoramiento": "Uno de los factores más importantes en el análisis de su Perfil de Crédito es el estado de sus obligaciones abiertas y la diversidad de su portafolio. En su caso se considera que usted cuenta con un portafolio lo suficientemente diverso. Esto afecta positivamente su Perfil de Crédito."
+					},
+					{
+						"calificacion": "Excelente",
+						"texto": "Tienes o has tenido crédito hipotecario/leasing",
+						"calificacionLetra": "E",
+						"textoMejoramiento": "Debido a que los montos, cuotas y plazos de los créditos hipotecarios son significativamente mayores respecto a otros tipos de créditos, tener un crédito hipotecarios afecta positivamente su Perfil de Crédito. Contar con créditos hipotecarios implica que usted tiene algún patrimonio y que ha llevado a cabo una planeación financiera de más largo plazo. Adicionalmente, los créditos hipotecarios cuentan con beneficios tributarios que le ayudarán a aliviar su flujo de caja. Por todas estas razones, los créditos hipotecarios se consideran una buena práctica de finanzas personales."
+					},
+					{
+						"calificacion": "Bueno",
+						"texto": "Cuentas con productos financieros y de telecomunicaciones",
+						"calificacionLetra": "B",
+						"textoMejoramiento": "Usted cuenta con productos financieros en su portafolio. Se considera que éste es un indicador de un buen Perfil de Crédito. Productos como Tarjetas de Crédito, Créditos Rotativos o Préstamos con entidades bancarias requieren de un manejo más cuidadoso ya que los cupos y cuotas generalmente son más altas respecto a obligaciones del sector real o de telecomunicaciones."
+					},
+					{
+						"calificacion": "Regular",
+						"texto": "Tienes 2 cuentas como codeudor",
+						"calificacionLetra": "R",
+						"textoMejoramiento": "Ser codeudor incrementa su riesgo de crédito. Si la persona a la que le sirve de garante llega a incumplir con los pagos de la obligación usted entrará a responder con sus ingresos o patrimonio. Esto le generará  un reporte negativo en su historia de crédito. Adicionalmente, esta deuda es tenida en cuenta por las entidades financieras en el cálculo de su capacidad de endeudamiento. Mantenga un monitoreo constante de sus cuentas como codeudor a través de Midatacredito."
+					}
+				]
+			},
+			"experienciaCrediticia": {
+				"aniosExperienciaCrediticia": 22,
+				"mesesDesdeNuevoProducto": 3,
+				"numeroObligacionesUltimos6Meses": 1,
+				"totalProductosCerrados": 47,
+				"calificaciones": [
+					{
+						"calificacion": "Excelente",
+						"texto": "Cuentas con 22 años de Experiencia Crediticia",
+						"calificacionLetra": "E",
+						"textoMejoramiento": "Usted cuenta con una amplia experiencia crediticia. En la etapa de madurez financiera se espera que las personas usen sus líneas de crédito para construir patrimonio, como ocurre en el caso de compra de vivienda, compra de acciones, bonos u otro tipo de inversión. Tenga en cuenta que en una etapa de madurez financiera la suma de sus deudas no debe ser mayor a su patrimonio neto (Activos-Pasivos)."
+					},
+					{
+						"calificacion": "Bueno",
+						"texto": "En los últimos 6 meses abriste 1 nuevas obligaciones",
+						"calificacionLetra": "B",
+						"textoMejoramiento": "Estadísticamente se ha comprobado que las personas que abren muchos productos en un corto periodo de tiempo tienen un Perfil de mayor riesgo. La recomendación es que depués de adquirir una nueva deuda, espere un tiempo prudente de 3 meses antes de solicitar otro crédito, es importante que su flujo de caja se adapte a la nueva obligación antes de solicitar un nuevo crédito."
+					},
+					{
+						"calificacion": "Excelente",
+						"texto": "En tu vida crediticia has cerrado 47 productos con estados positivos.",
+						"calificacionLetra": "E",
+						"textoMejoramiento": "Además de los años de experiencia crediticia, el número de productos con buen manejo que usted haya tenido a lo largo de su vida, contribuyen a mejorar su perfil de crédito. En su caso, usted tiene experiencia suficiente en el manejo de diversos productos. Recuerde que al cerrar cualquier crédito o cuenta, debe pedir a la entidad un paz y salvo y revisar que el estado final de la cuenta en su historia de crédito es un estado positivo."
+					},
+					{
+						"calificacion": "Regular",
+						"texto": "Han transcurrido 3 meses desde tu apertura más reciente de productos.",
+						"calificacionLetra": "R",
+						"textoMejoramiento": ""
+					}
+				]
+			},
+			"habitoPago": {
+				"productosConMora30DiasUltimos12Meses": 0,
+				"productosConMora60DiasUltimos48Meses": 0,
+				"saldoEnMora": 0.0,
+				"productosEnMoraALaFecha": 0,
+				"calificaciones": [
+					{
+						"calificacion": "Excelente",
+						"texto": "Has tenido 0 productos con moras de 30 dias en los últimos 12 meses",
+						"calificacionLetra": "E",
+						"textoMejoramiento": "Usted ha realizado todos sus pagos oportunamente durante el último año, ¡esto suma puntos en su Perfil de Crédito!"
+					},
+					{
+						"calificacion": "Excelente",
+						"texto": "Has tenido 0 productos con moras de 60 dias o mas en los últimos 48 meses",
+						"calificacionLetra": "E",
+						"textoMejoramiento": "Usted presenta un buen manejo histórico de su Perfil, no ha incurrido en ninguna mora severa (más de 60 días) en los últimos 4 años. Este es un factor importante, ya que menos del 40% de las personas que alcanzan moras severas, logran ponerse al día en sus obligaciones."
+					},
+					{
+						"calificacion": "Excelente",
+						"texto": "A la fecha tienes un saldo en mora de 0.0",
+						"calificacionLetra": "E",
+						"textoMejoramiento": ""
+					},
+					{
+						"calificacion": "Excelente",
+						"texto": "A la fecha tienes 0 productos en mora",
+						"calificacionLetra": "E",
+						"textoMejoramiento": "Muy bien, todos sus productos se encuentran al día. Usted cuenta con un buen hábito de pago de sus obligaciones.Estar siempre al día en sus obligaciones le ayudará a construir unas finanzas sólidas y saludables."
+					}
+				]
+			}
+		},
+		"score": {
+			"tipo": "67",
+			"puntaje": "710.0",
+			"fecha": 1569369600000,
+			"poblacion": "55",
+			"Razon": [
+				{
+					"codigo": "00099"
+				},
+				{
+					"codigo": "00000"
+				}
+			]
+		},
+		"request": {
+			"document": "79628749",
+			"documentType": "1",
+			"lastName": "lozano"
+		}
+	},
+	{
+		"diagnosticInfo": {
+			"endeudamiento": {
+				"porcentajeUtilizacion": 17.6,
+				"porcentajePendiente": 45.8,
+				"comportamiento": "estable",
+				"prestamosPlazoFijo": 6,
+				"calificaciones": [
+					{
+						"calificacion": "Excelente",
+						"texto": "A la fecha tienes una utilización del 17.6% en tus tarjetas crédito y rotativos.",
+						"calificacionLetra": "E",
+						"textoMejoramiento": "Actualmente su utilización de Tarjetas de Crédito y Crédito Rotativos se encuentra en un nivel saludable. Se recomienda mantener una utilización inferior al 55%. ¿Cuáles son las implicaciones de una alta utilización? Una alta utilización implica que la persona está llegando al límite máximo de su capacidad de endeudamiento de acuerdo a los cupos otorgados por las entidades. Una alta utilización implica además que el cupo disponible en Tarjetas de Crédito y Rotativos es bajo. Es importante mantener un alto cupo disponible para poder usarlo en caso de cualquier evento o situación inesperada. Mantener una línea de crédito con baja utilización es una forma de mitigar el riesgo financiero."
+					},
+					{
+						"calificacion": "Excelente",
+						"texto": "Tienes un 45.8% pendiente por pagar en el saldo de tus obligaciones a plazo fijo.",
+						"calificacionLetra": "E",
+						"textoMejoramiento": "En la primera etapa de una deuda, cuando se debe más del 89% del monto inicial de la misma, existe un mayor riesgo de incumplimiento. Esto se debe a que en los primeros meses de una deuda el aporte a saldo a capital es muy poco y la persona además debe adaptar su flujo de caja a la nueva obligación. Una vez la persona debe menos del 89% del saldo inicial, como es su caso, se considera que se encuentra en una etapa de riesgo bajo."
+					},
+					{
+						"calificacion": "Excelente",
+						"texto": "Tienes un comportamiento estable en la utilización de tus tarjetas de crédito y rotativos",
+						"calificacionLetra": "E",
+						"textoMejoramiento": "Usted presenta un comportamiento estable en sus tarjetas de crédito y créditos rotativos. Una alta volatilidad o variabilidad en la utilización de sus Tarjetas de Crédito y Crédito Rotativos refleja una menor estabilidad en el flujo de caja y por lo tanto un perfil de mayor riesgo. Si bien este no es el factor más relevante a la hora de analizar el riesgo en sus finanzas, la recomendación es mantener un flujo de caja estable, a mayor estabilidad, menor riesgo."
+					}
+				]
+			},
+			"estadoPortafolio": {
+				"numeroProductosAbiertosAlDia": 37,
+				"tieneOTuvoCreditosHipotecarios": true,
+				"tieneProductosFinancierosOTeleco": true,
+				"cuentasComoCodeudor": 2,
+				"calificaciones": [
+					{
+						"calificacion": "Excelente",
+						"texto": "Cuenta con 37 productos abiertos al día",
+						"calificacionLetra": "E",
+						"textoMejoramiento": "Uno de los factores más importantes en el análisis de su Perfil de Crédito es el estado de sus obligaciones abiertas y la diversidad de su portafolio. En su caso se considera que usted cuenta con un portafolio lo suficientemente diverso. Esto afecta positivamente su Perfil de Crédito."
+					},
+					{
+						"calificacion": "Excelente",
+						"texto": "Tienes o has tenido crédito hipotecario/leasing",
+						"calificacionLetra": "E",
+						"textoMejoramiento": "Debido a que los montos, cuotas y plazos de los créditos hipotecarios son significativamente mayores respecto a otros tipos de créditos, tener un crédito hipotecarios afecta positivamente su Perfil de Crédito. Contar con créditos hipotecarios implica que usted tiene algún patrimonio y que ha llevado a cabo una planeación financiera de más largo plazo. Adicionalmente, los créditos hipotecarios cuentan con beneficios tributarios que le ayudarán a aliviar su flujo de caja. Por todas estas razones, los créditos hipotecarios se consideran una buena práctica de finanzas personales."
+					},
+					{
+						"calificacion": "Bueno",
+						"texto": "Cuentas con productos financieros y de telecomunicaciones",
+						"calificacionLetra": "B",
+						"textoMejoramiento": "Usted cuenta con productos financieros en su portafolio. Se considera que éste es un indicador de un buen Perfil de Crédito. Productos como Tarjetas de Crédito, Créditos Rotativos o Préstamos con entidades bancarias requieren de un manejo más cuidadoso ya que los cupos y cuotas generalmente son más altas respecto a obligaciones del sector real o de telecomunicaciones."
+					},
+					{
+						"calificacion": "Regular",
+						"texto": "Tienes 2 cuentas como codeudor",
+						"calificacionLetra": "R",
+						"textoMejoramiento": "Ser codeudor incrementa su riesgo de crédito. Si la persona a la que le sirve de garante llega a incumplir con los pagos de la obligación usted entrará a responder con sus ingresos o patrimonio. Esto le generará  un reporte negativo en su historia de crédito. Adicionalmente, esta deuda es tenida en cuenta por las entidades financieras en el cálculo de su capacidad de endeudamiento. Mantenga un monitoreo constante de sus cuentas como codeudor a través de Midatacredito."
+					}
+				]
+			},
+			"experienciaCrediticia": {
+				"aniosExperienciaCrediticia": 12,
+				"mesesDesdeNuevoProducto": 3,
+				"numeroObligacionesUltimos6Meses": 2,
+				"totalProductosCerrados": 15,
+				"calificaciones": [
+					{
+						"calificacion": "Bueno",
+						"texto": "Cuentas con 12 años de Experiencia Crediticia",
+						"calificacionLetra": "B",
+						"textoMejoramiento": "Usted cuenta con una experiencia crediticia moderada. Se considera que las personas alcanzan una madurez crediticia después de 13 años de buen manejo de sus productos. La experiencia es un factor determinante en el buen manejo de las finanzas. Las personas con suficiente experiencia han vivido épocas de abundancia y escasez tanto de la economía como de sus finanzas personales, y esto les da una mejor perspectiva sobre el manejo del riesgo financiero. así mismo la edad y la etapa de la vida de cada persona suman en la experiencia crediticia. A mayor experiencia se espera que los créditos sean usados principalmente para construcción de patrimonio, y en menor medida para los gastos del día a día."
+					},
+					{
+						"calificacion": "Bueno",
+						"texto": "En los últimos 6 meses abriste 2 nuevas obligaciones",
+						"calificacionLetra": "B",
+						"textoMejoramiento": "Estadísticamente se ha comprobado que las personas que abren muchos productos en un corto periodo de tiempo tienen un Perfil de mayor riesgo. La recomendación es que depués de adquirir una nueva deuda, espere un tiempo prudente de 3 meses antes de solicitar otro crédito, es importante que su flujo de caja se adapte a la nueva obligación antes de solicitar un nuevo crédito."
+					},
+					{
+						"calificacion": "Excelente",
+						"texto": "En tu vida crediticia has cerrado 15 productos con estados positivos.",
+						"calificacionLetra": "E",
+						"textoMejoramiento": "Además de los años de experiencia crediticia, el número de productos con buen manejo que usted haya tenido a lo largo de su vida, contribuyen a mejorar su perfil de crédito. En su caso, usted tiene experiencia suficiente en el manejo de diversos productos. Recuerde que al cerrar cualquier crédito o cuenta, debe pedir a la entidad un paz y salvo y revisar que el estado final de la cuenta en su historia de crédito es un estado positivo."
+					},
+					{
+						"calificacion": "Regular",
+						"texto": "Han transcurrido 3 meses desde tu apertura más reciente de productos.",
+						"calificacionLetra": "R",
+						"textoMejoramiento": ""
+					}
+				]
+			},
+			"habitoPago": {
+				"productosConMora30DiasUltimos12Meses": 0,
+				"productosConMora60DiasUltimos48Meses": 0,
+				"saldoEnMora": 0.0,
+				"productosEnMoraALaFecha": 0,
+				"calificaciones": [
+					{
+						"calificacion": "Excelente",
+						"texto": "Has tenido 0 productos con moras de 30 dias en los últimos 12 meses",
+						"calificacionLetra": "E",
+						"textoMejoramiento": "Usted ha realizado todos sus pagos oportunamente durante el último año, ¡esto suma puntos en su Perfil de Crédito!"
+					},
+					{
+						"calificacion": "Excelente",
+						"texto": "Has tenido 0 productos con moras de 60 dias o mas en los últimos 48 meses",
+						"calificacionLetra": "E",
+						"textoMejoramiento": "Usted presenta un buen manejo histórico de su Perfil, no ha incurrido en ninguna mora severa (más de 60 días) en los últimos 4 años. Este es un factor importante, ya que menos del 40% de las personas que alcanzan moras severas, logran ponerse al día en sus obligaciones."
+					},
+					{
+						"calificacion": "Excelente",
+						"texto": "A la fecha tienes un saldo en mora de 0.0",
+						"calificacionLetra": "E",
+						"textoMejoramiento": ""
+					},
+					{
+						"calificacion": "Excelente",
+						"texto": "A la fecha tienes 0 productos en mora",
+						"calificacionLetra": "E",
+						"textoMejoramiento": "Muy bien, todos sus productos se encuentran al día. Usted cuenta con un buen hábito de pago de sus obligaciones.Estar siempre al día en sus obligaciones le ayudará a construir unas finanzas sólidas y saludables."
+					}
+				]
+			}
+		},
+		"score": {
+			"tipo": "67",
+			"puntaje": "817.0",
+			"fecha": 1569369600000,
+			"poblacion": "95",
+			"Razon": [
+				{
+					"codigo": "00099"
+				},
+				{
+					"codigo": "00000"
+				}
+			]
+		},
+		"request": {
+			"document": "1020730759",
+			"documentType": "1",
+			"lastName": "perez"
+		}
+	}
+]

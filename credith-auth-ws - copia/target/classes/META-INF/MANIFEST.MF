@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: credith-auth-ws
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: C59066A
+Implementation-Vendor-Id: profesor-p
+Build-Jdk: 1.8.0_221
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-bo
+ ot-starter-parent/credith-auth-ws
+Created-By: Maven Integration for Eclipse
+

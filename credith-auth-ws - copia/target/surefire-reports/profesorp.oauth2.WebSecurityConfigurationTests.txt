@@ -1,0 +1,8 @@
+-------------------------------------------------------------------------------
+Test set: profesorp.oauth2.WebSecurityConfigurationTests
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 1, Skipped: 0, Time elapsed: 4.649 s <<< FAILURE! - in profesorp.oauth2.WebSecurityConfigurationTests
+contextLoads(profesorp.oauth2.WebSecurityConfigurationTests)  Time elapsed: 0.01 s  <<< ERROR!
+java.lang.IllegalStateException: Failed to load ApplicationContext
+Caused by: org.springframework.beans.factory.support.BeanDefinitionOverrideException: Invalid bean definition with name 'passwordEncoder' defined in profesorp.oauth2.WebSecurityConfiguration: Cannot register bean definition [Root bean: class [null]; scope=; abstract=false; lazyInit=false; autowireMode=3; dependencyCheck=0; autowireCandidate=true; primary=false; factoryBeanName=webSecurityConfiguration; factoryMethodName=passwordEncoder; initMethodName=null; destroyMethodName=(inferred); defined in profesorp.oauth2.WebSecurityConfiguration] for bean 'passwordEncoder': There is already [Root bean: class [null]; scope=; abstract=false; lazyInit=false; autowireMode=3; dependencyCheck=0; autowireCandidate=true; primary=false; factoryBeanName=authorizacionServerConfiguration; factoryMethodName=passwordEncoder; initMethodName=null; destroyMethodName=(inferred); defined in class path resource [profesorp/oauth2/AuthorizacionServerConfiguration.class]] bound.
+
